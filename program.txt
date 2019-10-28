@@ -2,6 +2,11 @@ Main(){
     print "hello world!"
 }
 
-method(){
-    print "my name is –°∑…≈£"	
+method(String name){
+    print "my name is " + name;	
+}
+
+show(){
+     String name = "–°∑…≈£"£ª
+     method(name);	
 }
